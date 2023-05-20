@@ -1,0 +1,685 @@
+﻿1
+00:00:14,139 --> 00:00:16,358
+Is it still working?
+
+2
+00:00:19,006 --> 00:00:22,123
+Yes it's working.
+
+3
+00:00:22,301 --> 00:00:24,021
+Good evening.
+
+4
+00:00:24,482 --> 00:00:27,639
+How many Sylvias are there?
+
+5
+00:00:28,006 --> 00:00:29,029
+Six.
+
+6
+00:00:29,195 --> 00:00:31,636
+No, there are seven.
+
+7
+00:00:37,747 --> 00:00:42,159
+-Is it still raining?
+-No, it's fine now.
+
+8
+00:00:43,002 --> 00:00:46,164
+-It's getting dark.
+-What's the time?
+
+9
+00:00:47,053 --> 00:00:48,918
+It's nearly seven o'clock.
+
+10
+00:00:49,529 --> 00:00:51,638
+It gets dark at seven.
+
+11
+00:00:52,115 --> 00:00:55,244
+In autumn it gets
+dark at seven.
+
+12
+00:00:55,269 --> 00:00:56,760
+Autumn?
+
+13
+00:01:01,572 --> 00:01:03,318
+Autumn.
+
+14
+00:01:08,235 --> 00:01:09,765
+Winter.
+
+15
+00:01:14,155 --> 00:01:15,919
+Spring.
+
+16
+00:01:20,484 --> 00:01:22,165
+Summer.
+
+17
+00:01:26,267 --> 00:01:30,156
+In autumn
+it gets dark at seven.
+
+18
+00:01:31,576 --> 00:01:35,084
+In winter
+it gets dark at five.
+
+19
+00:01:36,814 --> 00:01:40,197
+In spring
+it gets dark at seven.
+
+20
+00:01:41,992 --> 00:01:45,403
+In summer
+it gets dark at nine.
+
+21
+00:01:55,225 --> 00:01:57,960
+September.
+October.
+
+22
+00:01:57,985 --> 00:02:01,119
+November.
+December.
+
+23
+00:02:01,199 --> 00:02:04,445
+January.
+February.
+
+24
+00:02:04,470 --> 00:02:07,404
+March.
+April.
+
+25
+00:02:07,432 --> 00:02:10,155
+May.
+June.
+
+26
+00:02:10,265 --> 00:02:13,578
+July.
+August.
+
+27
+00:02:18,024 --> 00:02:20,189
+January. February.
+
+28
+00:02:20,252 --> 00:02:23,928
+March. April. May. June.
+
+29
+00:02:23,991 --> 00:02:27,520
+July. August. September.
+
+30
+00:02:36,341 --> 00:02:40,156
+Monday. Tuesday.
+
+31
+00:02:40,216 --> 00:02:44,038
+Wednesday. Thursday.
+
+32
+00:02:44,063 --> 00:02:47,963
+Friday. Saturday.
+
+33
+00:02:48,117 --> 00:02:50,164
+Sunday.
+
+34
+00:02:50,805 --> 00:02:53,401
+On Monday I play football.
+
+35
+00:02:55,438 --> 00:02:58,599
+On Tuesday I play basketball.
+
+36
+00:03:00,415 --> 00:03:03,758
+On Wednesday I go roller-
+skating.
+
+37
+00:03:05,081 --> 00:03:08,801
+On Thursday I do my exercises.
+
+38
+00:03:10,105 --> 00:03:13,035
+On Friday I go swimming.
+
+39
+00:03:15,105 --> 00:03:18,122
+On Saturday I play golf.
+
+40
+00:03:19,886 --> 00:03:22,684
+And on Sunday we play tennis.
+
+41
+00:03:32,738 --> 00:03:34,114
+When?
+
+42
+00:03:38,886 --> 00:03:40,683
+When do you play football?
+
+43
+00:03:40,708 --> 00:03:42,565
+On Monday!
+
+44
+00:03:42,766 --> 00:03:44,802
+When do you play basketball?
+
+45
+00:03:44,827 --> 00:03:46,598
+On Tuesday!
+
+46
+00:03:47,033 --> 00:03:49,111
+When do you go roller-skating?
+
+47
+00:03:49,142 --> 00:03:51,199
+On Wednesday.
+
+48
+00:03:51,236 --> 00:03:53,353
+When do you do your exercises?
+
+49
+00:03:53,392 --> 00:03:55,319
+On Thursday.
+
+50
+00:03:55,728 --> 00:03:57,643
+When do you go swimming?
+
+51
+00:03:57,668 --> 00:03:59,279
+On Friday.
+
+52
+00:03:59,646 --> 00:04:01,045
+When do you play golf?
+
+53
+00:04:01,131 --> 00:04:02,717
+On Saturday.
+
+54
+00:04:02,873 --> 00:04:04,608
+When do you play tennis?
+
+55
+00:04:04,733 --> 00:04:06,381
+On Sunday.
+
+56
+00:04:06,412 --> 00:04:08,639
+And it's Sunday today.
+
+57
+00:04:08,779 --> 00:04:11,282
+And we're playing tennis now.
+
+58
+00:04:15,406 --> 00:04:18,125
+Where's Princess Sylvia's room?
+
+59
+00:04:18,429 --> 00:04:20,477
+-There!
+-Where,
+
+60
+00:04:20,515 --> 00:04:22,404
+on the first floor?
+
+61
+00:04:22,465 --> 00:04:25,036
+No, it's on the second floor.
+
+62
+00:04:25,090 --> 00:04:29,564
+Oh, there are three rooms
+on the second floor.
+
+63
+00:04:30,105 --> 00:04:31,884
+Which one is it?
+
+64
+00:04:32,090 --> 00:04:35,438
+-Is it the one on the left?
+-No, it isn't.
+
+65
+00:04:35,646 --> 00:04:38,877
+-Is it the one on the right?
+-No, it isn't.
+
+66
+00:04:39,409 --> 00:04:43,076
+-Is it the one in the middle?
+-Yes, it is.
+
+67
+00:04:43,606 --> 00:04:45,657
+It's the one in the middle.
+
+68
+00:04:59,806 --> 00:05:01,524
+It's the one in the middle.
+
+69
+00:05:04,081 --> 00:05:06,641
+What about the room up there?
+
+70
+00:05:07,109 --> 00:05:09,436
+The one on the top floor.
+
+71
+00:05:10,046 --> 00:05:13,356
+That's Corvax's room.
+It's the computer room.
+
+72
+00:05:55,809 --> 00:05:58,435
+Stop it! Stop it!
+
+73
+00:05:58,460 --> 00:06:01,683
+No! No! No!
+
+74
+00:06:03,495 --> 00:06:08,037
+Food. Clocks. Seven p.m.
+
+75
+00:06:09,456 --> 00:06:11,204
+I've got some food.
+
+76
+00:06:12,237 --> 00:06:14,004
+I've got some clocks.
+
+77
+00:06:14,414 --> 00:06:16,797
+And it's nearly seven o'clock.
+
+78
+00:06:16,940 --> 00:06:18,360
+OK.
+
+79
+00:06:19,886 --> 00:06:22,764
+Open the door... quietly!
+
+80
+00:06:24,859 --> 00:06:28,402
+Look around... carefully!
+
+81
+00:06:29,736 --> 00:06:32,565
+Run downstairs... quickly!
+
+82
+00:06:33,212 --> 00:06:34,918
+Hello Sylvia!
+
+83
+00:06:35,728 --> 00:06:37,080
+Hello.
+
+84
+00:06:38,246 --> 00:06:39,520
+That's me!
+
+85
+00:06:43,086 --> 00:06:44,360
+Oh!
+
+86
+00:06:47,011 --> 00:06:49,476
+It's seven. Bob's waiting.
+
+87
+00:06:53,073 --> 00:06:54,725
+That's me again!
+
+88
+00:06:58,686 --> 00:07:00,597
+Seven o'clock!
+
+89
+00:07:01,710 --> 00:07:04,243
+It's dinner-time, Sylvia!
+
+90
+00:07:04,606 --> 00:07:07,166
+-Yes, Mummy.
+-Yes, Mummy.
+
+91
+00:07:07,366 --> 00:07:09,721
+-Yes, Mummy.
+-Yes, Mummy.
+
+92
+00:07:19,926 --> 00:07:24,044
+Look, they're all Sylvias.
+
+93
+00:07:27,526 --> 00:07:30,086
+How many are there?
+
+94
+00:07:31,807 --> 00:07:34,299
+There are three in the kitchen.
+
+95
+00:07:34,324 --> 00:07:36,252
+Four in the hall.
+
+96
+00:07:36,283 --> 00:07:38,362
+There's one by the fireplace.
+
+97
+00:07:38,401 --> 00:07:41,196
+There are two against the wall.
+
+98
+00:07:41,747 --> 00:07:43,927
+There's one in the sitting-room
+
+99
+00:07:43,958 --> 00:07:45,849
+bouncing on the chairs.
+
+100
+00:07:45,927 --> 00:07:48,263
+And four are having lots of
+fun,
+
+101
+00:07:48,325 --> 00:07:50,637
+sliding down the stairs.
+
+102
+00:07:51,169 --> 00:07:53,966
+There are hundreds in the
+garden
+
+103
+00:07:53,991 --> 00:07:55,759
+picking all the flowers.
+
+104
+00:07:55,816 --> 00:07:58,378
+And lots in the bathrooms
+
+105
+00:07:58,403 --> 00:08:00,876
+turning on the showers.
+
+106
+00:08:01,566 --> 00:08:03,636
+Lots on the chandeliers.
+
+107
+00:08:03,769 --> 00:08:05,643
+More over there!
+
+108
+00:08:05,901 --> 00:08:09,879
+More of them and more of them,
+appearing everywhere!
+
+109
+00:08:10,315 --> 00:08:14,439
+More of them and more of them,
+appearing everywhere!
+
+110
+00:08:15,722 --> 00:08:18,759
+Where are they all coming from?
+
+111
+00:08:20,894 --> 00:08:21,698
+Look,
+
+112
+00:08:21,723 --> 00:08:25,721
+they're coming from Corvax's
+room upstairs.
+
+113
+00:08:25,926 --> 00:08:29,680
+What's he doing?
+Go and see... quick!
+
+114
+00:08:29,705 --> 00:08:32,515
+Stop it! Stop it!
+
+115
+00:08:32,540 --> 00:08:34,045
+Help!
+
+116
+00:08:36,293 --> 00:08:37,701
+Corvax!
+
+117
+00:08:37,771 --> 00:08:39,857
+What are you doing?
+
+118
+00:08:39,888 --> 00:08:42,784
+I'm not doing anything.
+
+119
+00:08:42,816 --> 00:08:45,324
+It's the computer.
+
+120
+00:08:51,122 --> 00:08:52,242
+Help!
+
+121
+00:08:52,833 --> 00:08:53,911
+Listen!
+
+122
+00:08:54,036 --> 00:08:55,270
+Help!
+
+123
+00:08:55,583 --> 00:08:56,915
+It's Sylvia.
+
+124
+00:08:59,349 --> 00:09:02,479
+Oh, Bob!
+I'm frightened.
+
+125
+00:09:02,686 --> 00:09:04,165
+Why?
+
+126
+00:09:04,380 --> 00:09:05,999
+Why are you frightened?
+
+127
+00:09:06,138 --> 00:09:09,916
+Because there are
+lots of Sylvias in the palace.
+
+128
+00:09:09,978 --> 00:09:13,124
+-Sylvias?
+-Excuse me.
+
+129
+00:09:13,877 --> 00:09:16,689
+Have you got any clocks?
+
+130
+00:09:16,767 --> 00:09:19,658
+-Oh, Muzzy!
+-Here you are.
+
+131
+00:09:20,318 --> 00:09:22,739
+Muzzy, why do you eat clocks?
+
+132
+00:09:22,786 --> 00:09:26,005
+Because I like them,
+of course.
+
+133
+00:09:34,070 --> 00:09:35,484
+Why?
+
+134
+00:09:41,500 --> 00:09:44,604
+Oh, dear! He's crying.
+
+135
+00:09:46,056 --> 00:09:47,704
+Why are you crying?
+
+136
+00:09:47,729 --> 00:09:50,228
+Because I can't reach the apple.
+
+137
+00:09:50,253 --> 00:09:52,204
+Why can't you reach the apple?
+
+138
+00:09:52,406 --> 00:09:54,325
+Because I'm small.
+
+139
+00:09:54,442 --> 00:09:56,239
+I can reach the apple.
+
+140
+00:09:56,446 --> 00:09:57,640
+Yes.
+
+141
+00:09:57,692 --> 00:10:00,598
+-Why?
+-Because you're tall.
+
+142
+00:10:00,645 --> 00:10:02,041
+Right!
+
+143
+00:10:02,161 --> 00:10:04,516
+-Here you are!
+-Thanks.
+
+144
+00:10:04,597 --> 00:10:06,085
+Bye!
+
+145
+00:10:06,816 --> 00:10:11,284
+Hey! That's my apple,
+and my bike.
+
+146
+00:10:13,129 --> 00:10:15,761
+Come back! Come back!
+
+147
+00:10:16,186 --> 00:10:18,039
+That's mine!
+
+148
+00:10:19,803 --> 00:10:21,530
+Gotcha!
+
+149
+00:10:21,592 --> 00:10:24,844
+Now, is this my bike?
+
+150
+00:10:25,092 --> 00:10:27,116
+Yes, it's yours.
+
+151
+00:10:27,155 --> 00:10:29,523
+Yes, it's mine.
+
+152
+00:10:29,780 --> 00:10:32,196
+And where's my apple?
+
+153
+00:10:32,566 --> 00:10:34,093
+You can't have it.
+
+154
+00:10:34,139 --> 00:10:37,479
+-Why not?
+-Because it's in here.
+
+155
+00:10:38,868 --> 00:10:40,763
+Oh, Bob.
+
+156
+00:10:42,286 --> 00:10:44,481
+Lots of Sylvias?
+
+157
+00:10:49,502 --> 00:10:52,963
+Ah! I see.
+
+158
+00:10:54,166 --> 00:10:57,442
+Corvax!
+The computer!
+
+159
+00:10:57,838 --> 00:11:00,361
+Bob! Where are you going?
+
+160
+00:11:00,566 --> 00:11:03,080
+To the computer room.
+Come on!
+
+161
+00:11:03,154 --> 00:11:04,514
+Follow me!
+
+
+
