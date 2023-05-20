@@ -8,6 +8,7 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import RegexpTokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
+nltk.download('wordnet')
 
 # Вычленение того, что не относится к словам
 HTML = r'<.*?>'
