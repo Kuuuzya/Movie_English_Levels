@@ -1,4 +1,4 @@
 nltk
-pip
-pysrt
+streamlit
 pandas
+scikit-learn
