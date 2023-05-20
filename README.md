@@ -22,3 +22,7 @@
 - pysrt
 - re
 - sklearn
+
+<b>Ссылки:</b>
+- <a href="https://github.com/Kuuuzya/Movie_English_Levels">Репозиторий проекта</a>
+- <a href="https://kuuuzya-movie-english-levels-main-w5zom6.streamlit.app">Приложение Streamlit</a>
