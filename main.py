@@ -1,5 +1,5 @@
-!pip install --upgrade pip
-!pip install nltk
+pip install --upgrade pip
+pip install nltk
 
 import streamlit as st
 #import pandas as pd
