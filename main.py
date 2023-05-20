@@ -98,7 +98,7 @@ if st.button('Определить уровень'):
     extension = file.name.split(".")[-1]  # Получаем расширение файла
     name = file.name[:-len(extension) - 1]
 
-st.markdown(
+    st.markdown(
         f'<b>Уровень английского для просмотра фильма {name}:<br> {pred_str}.</b><br>Смотрите фильм или подтягивайте английский!',
         unsafe_allow_html=True
     )
