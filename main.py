@@ -101,3 +101,4 @@ if st.button('Определить уровень'):
         unsafe_allow_html=True
     )
     st.markdown('<h4 align="center">Смотрите фильм или подтягивайте английский!</h4>', unsafe_allow_html=True)
+    st.markdown('<br><br><i><a href="https://github.com/Kuuuzya/Movie_English_Levels">Этот проект в GitHub</a></i><br><i>©Kuuuzya. Другие проекты в <a href="https://github.com/Kuuuzya/">GitHub</a></i>', unsafe_allow_html=True)
