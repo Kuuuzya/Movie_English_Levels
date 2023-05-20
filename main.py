@@ -24,12 +24,12 @@ st.markdown('<h1 align="center">Movie English Level</h1>', unsafe_allow_html=Tru
 st.write('---')
 st.markdown(
     '\n<h3>Это приложение для определение уровня английского языка, необходимого для понимания '
-    '50 - 70% фильма.',
+    '50 - 70% фильма.</h3>',
     unsafe_allow_html=True
 )
 st.markdown(
-    '\n<h3>Загрузите файл с субтитрами на английском языке в формате ".srt" и узнайте уровень английского, '
-    'который требуется для комфортного просмотра фильма на английском языке!</h3>',
+    '\n<b>Загрузите файл с субтитрами на английском языке в формате ".srt" и узнайте уровень английского, '
+    'который требуется для комфортного просмотра фильма на английском языке!</b>',
     unsafe_allow_html=True
 )
 
@@ -86,18 +86,18 @@ if st.button('Определить уровень'):
     # Получение уровня английского
     pred_str = ''
     if pred[0] == 0:
-        pred_str = 'A1'
+        pred_str = 'A1, начальный'
     elif pred[0] == 1:
-        pred_str = 'A2'
+        pred_str = 'A2, ниже среднего'
     elif pred[0] == 2:
-        pred_str = 'B1'
+        pred_str = 'B1, средний'
     elif pred[0] == 3:
-        pred_str = 'B2'
+        pred_str = 'B2, выше среднего'
     elif pred[0] == 4:
-        pred_str = 'C1'
+        pred_str = 'C1, продвинутый'
 
     st.markdown(
-        f'<h3>Уровень английского для просмотра фильма: <a style="color: orange">{pred_str}</a>.</h3>',
+        f'<h3>Уровень английского для просмотра фильма {file.name}: {pred_str}.</h3>',
         unsafe_allow_html=True
     )
-    st.markdown('<h3 align="center">Смотрите фильм или подтягивайте английский!</h3>', unsafe_allow_html=True)
+    st.markdown('<h4 align="center">Смотрите фильм или подтягивайте английский!</h4>', unsafe_allow_html=True)
