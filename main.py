@@ -97,8 +97,9 @@ if st.button('Определить уровень'):
         pred_str = 'C1, продвинутый'
 
     st.markdown(
-        f'<h3>Уровень английского для просмотра фильма {file.name}: {pred_str}.</h3>',
+        f'<b>Уровень английского для просмотра фильма {file.name}: {pred_str}.</b>',
         unsafe_allow_html=True
     )
-    st.markdown('<h4 align="center">Смотрите фильм или подтягивайте английский!</h4>', unsafe_allow_html=True)
-    st.markdown('<br><br><i><a href="https://github.com/Kuuuzya/Movie_English_Levels">Этот проект в GitHub</a></i><br><i>©Kuuuzya. Другие проекты в <a href="https://github.com/Kuuuzya/">GitHub</a></i>', unsafe_allow_html=True)
+    st.markdown('<b>Смотрите фильм или подтягивайте английский!</b>', unsafe_allow_html=True)
+
+st.markdown('<br><br><i><a href="https://github.com/Kuuuzya/Movie_English_Levels">Этот проект в GitHub</a></i><br><i>©Kuuuzya. Другие проекты в <a href="https://github.com/Kuuuzya/">GitHub</a></i>', unsafe_allow_html=True)
