@@ -48,8 +48,7 @@ if st.button('Определить уровень'):
             encoding_number += 1
 
     # Проверка возможности правильности кодирования, иначе - использование другого
-
-    # Удаление лишнего и оставление только слов
+    # Очистка
     text = re.sub(HTML, ' ', film_subs[1:])
     text = re.sub(TAG, ' ', text)
     text = re.sub(COMMENTS, ' ', text)
@@ -97,8 +96,7 @@ if st.button('Определить уровень'):
         pred_str = 'C1, продвинутый'
 
     st.markdown(
-        f'<b>Уровень английского для просмотра фильма {file.name}:<br> {pred_str}.</b>',
+        f'<b>Уровень английского для просмотра фильма {file.name}:<br> {pred_str}.</b><br>Смотрите фильм или подтягивайте английский!',
         unsafe_allow_html=True
     )
-    st.markdown('<b>Смотрите фильм или подтягивайте английский!</b>', unsafe_allow_html=True)
 st.markdown('<br><br><i><a href="https://github.com/Kuuuzya/Movie_English_Levels">Этот проект в GitHub</a></i><br><i>©Kuuuzya. Другие проекты в <a href="https://github.com/Kuuuzya/">GitHub</a></i>', unsafe_allow_html=True)
