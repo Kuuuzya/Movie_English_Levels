@@ -95,8 +95,11 @@ if st.button('Определить уровень'):
     elif pred[0] == 4:
         pred_str = 'C1, продвинутый'
 
-    st.markdown(
-        f'<b>Уровень английского для просмотра фильма {file.name}:<br> {pred_str}.</b><br>Смотрите фильм или подтягивайте английский!',
+    extension = file.name.split(".")[-1]  # Получаем расширение файла
+    filename = file.name[:-len(extension) - 1]
+
+st.markdown(
+        f'<b>Уровень английского для просмотра фильма {filename}:<br> {pred_str}.</b><br>Смотрите фильм или подтягивайте английский!',
         unsafe_allow_html=True
     )
 st.markdown('<br><br><i><a href="https://github.com/Kuuuzya/Movie_English_Levels">Этот проект в GitHub</a></i><br><i>©Kuuuzya. Другие проекты в <a href="https://github.com/Kuuuzya/">GitHub</a></i>', unsafe_allow_html=True)
