@@ -97,7 +97,7 @@ if st.button('Определить уровень'):
         pred_str = 'C1, продвинутый'
 
     st.markdown(
-        f'<b>Уровень английского для просмотра фильма {file.name}: {pred_str}.</b>',
+        f'<b>Уровень английского для просмотра фильма {file.name}:<br> {pred_str}.</b>',
         unsafe_allow_html=True
     )
     st.markdown('<b>Смотрите фильм или подтягивайте английский!</b>', unsafe_allow_html=True)
